@@ -486,7 +486,6 @@ footer p {
         justify-content: center;
         flex-direction: column;
         text-align: center;
-        margin-top: 2rem;
     }
     footer {
         display: grid;
@@ -501,6 +500,7 @@ footer p {
     }
 
 }
+
 
 
 
