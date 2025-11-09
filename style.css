@@ -457,7 +457,7 @@ footer p {
     .paragraf-sec {
         width: 100%;
         padding: 0;
-        /* transform: translateY(0); */
+        transform: translateY(1rem);
     }
     .paragraf-sec h3 {
         margin: 0;
@@ -495,3 +495,4 @@ footer p {
     }
 
 }
+
