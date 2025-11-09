@@ -431,11 +431,16 @@ footer p {
     }
 }
 @media (max-width: 800px) {
+    .main-section {
+        justify-content: flex-start;
+        margin-top: 2rem;
+    }
     .main-section h1 {
-        font-size: 5rem;
+        font-size: 300%;
     }
     .main-section p{
         text-align: center;
+        font-size: 100%;
     }
     .images-section > div {
         display: flex;
@@ -495,4 +500,3 @@ footer p {
     }
 
 }
-
