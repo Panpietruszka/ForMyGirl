@@ -492,6 +492,7 @@ footer {
         justify-content: center;
         flex-direction: column;
         text-align: center;
+        margin-top: 2rem;
     }
     footer {
         display: flex;
@@ -513,3 +514,4 @@ footer {
         text-align: center;
     }
 }
+
