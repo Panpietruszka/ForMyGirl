@@ -11,6 +11,7 @@ body {
 
 body {
     background: #fdb3bf;
+    overflow-x: hidden;
 }
 
 body::-webkit-scrollbar {
@@ -430,6 +431,9 @@ footer p {
     }
 }
 @media (max-width: 800px) {
+    .main-section h1 {
+        font-size: 5rem;
+    }
     .main-section p{
         text-align: center;
     }
@@ -489,4 +493,5 @@ footer p {
         align-items: center;
         justify-content: space-between;
     }
+
 }
